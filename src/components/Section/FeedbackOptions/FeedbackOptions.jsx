@@ -18,6 +18,7 @@ export const FeedbackOptions = ({ btnNames, feedBackAdd }) => {
         }
         if (btn === "good") {
           text = <Good />;
+          
         }
 
         return (

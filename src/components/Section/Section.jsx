@@ -1,4 +1,4 @@
-import { FeedbackOptions } from './FeedbackOptions';
+import { FeedbackOptions } from './FeadBackOption/FeedbackOptions';
 import { getKeyArrayFrimOdject } from 'helper/getKeyArrayFrimOdject';
 import { Titel } from './Section.styled';
 
